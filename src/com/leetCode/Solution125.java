@@ -26,7 +26,6 @@ public class Solution125 {
             i++;
             j--;
         }
-
         return true;
     }
 
